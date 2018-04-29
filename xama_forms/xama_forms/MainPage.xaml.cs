@@ -34,7 +34,7 @@ namespace xama_forms
         public MainPage()
         {
             InitializeComponent();
-            url.Text = "https://www.google.com/";
+            url.Text = "https://www.yahoo.com/";
             Browser.Source = url.Text;
         }
     }
